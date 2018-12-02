@@ -4,7 +4,6 @@ node_modules
 .idea
 bower_components/*
 .DS_Store
-dist
 npm-debug.log
 
 !bower_components/saveSvgAsPng
