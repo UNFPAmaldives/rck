@@ -1,0 +1,280 @@
+[
+  {
+    "name": "FT.com light blue",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#75a5c2",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {},
+    "images": {
+      "logoSrc": "logoSrc",
+      "logoAltSrc": "logoAltSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "FT.com dark blue",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#275e86",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {},
+    "images": {
+      "logoSrc": "logoSrc",
+      "logoAltSrc": "logoAltSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "FT Weekend Life & Arts",
+    "xrefText": "FTWeekend",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#92288f",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {},
+    "images": {
+      "logoSrc": "logoSrc",
+      "logoAltSrc": "logoAltSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "FT Weekend House & Home",
+    "xrefText": "FTWeekend",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#09a25c",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {},
+    "images": {
+      "logoSrc": "logoSrc",
+      "logoAltSrc": "logoAltSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "FT Money",
+    "xrefText": "FTMoney",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#cc0033",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {},
+    "images": {
+      "logoSrc": "logoSrc",
+      "logoAltSrc": "logoAltSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "FT Weekend Magazine",
+    "xrefText": "FT Weekend Magazine",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#0e6dcc",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {},
+    "images": {
+      "logoSrc": "logoSrc",
+      "logoAltSrc": "logoAltSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "FT Confidential Research",
+    "xrefText": "FT Confidential Research",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#007b92",
+    "quote": "#333333",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "financierdisplayweb",
+    "creditFont": "metricweb",
+    "xrefFont": "metricweb",
+    "overrideConfigs": {
+      "templateHelperLogo" : {
+        "logoWidth": 9,
+        "logoHeight": 3
+      },
+      "illustration" : {
+        "logoWidth": 12,
+        "logoHeight": 3,
+        "hideRef" : true,
+        "refYPos" : 5
+      },
+      "chart1" : {
+        "logoWidth" : 12,
+        "refYPos" : 5
+      },
+      "chart2" : {
+        "logoWidth" : 10,
+        "logoHeight" : 3,
+        "refYPos" : 5
+      },
+      "promoB" : {
+        "logoWidth" : 10,
+        "logoHeight" : 3,
+        "refYPos" : 4
+      },
+      "breakingNews" : {
+        "logoYPos": 0
+      }
+    },
+    "images": {
+      "logoSrc": "logoConfidentials",
+      "logoWideSrc": "logoConfidentialsWideSrc",
+      "logoAltSrc": "logoConfidentialsTransparent",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "Nikkei Asian Review",
+    "background": "#eeeeee",
+    "headline": "#595959",
+    "xrefBackground": "#2D5C9C",
+    "quote": "#595959",
+    "highlightColor": "#cc0033",
+    "xref": "#ffffff",
+    "headlineFont": "Georgia, serif",
+    "creditFont": "Arial, sans-serif",
+    "xrefFont": "Arial, sans-serif",
+    "isNikkei": true,
+    "overrideConfigs": {
+      "templateHelperLogo" : {
+        "logoWidth": 9,
+        "logoHeight": 3
+      },
+      "illustration" : {
+        "logoWidth": 12,
+        "logoHeight": 3,
+        "hideRef" : true,
+        "refYPos" : 4
+      },
+      "chart1" : {
+        "logoWidth" : 12,
+        "refYPos" : 4
+      },
+      "chart2" : {
+        "logoWidth" : 10,
+        "logoHeight" : 3,
+        "refYPos" : 4
+      },
+      "promoB" : {
+        "logoWidth" : 10,
+        "logoHeight" : 3,
+        "refYPos" : 4
+      },
+      "breakingNews" : {
+        "logoYPos": 0
+      }
+    },
+    "images": {
+      "logoSrc": "nikkeiAsianReviewLogoRectSrc",
+      "logoWideSrc": "nikkeiAsianReviewLogoWideSrc",
+      "logoAltSrc": "nikkeiAsianReviewLogoTransparentSrc",
+      "headshotSrc": "headshotSrc",
+      "bookmark": "bookmark",
+      "graphSrc": "graphSrc",
+      "graphWideSrc": "graphWideSrc",
+      "promoSrc": "promoSrc",
+      "weekendSrc": "weekendSrc",
+      "illustrationSrc": "illustrationSrc"
+    }
+  },
+  {
+    "name": "Video Clarret red",
+    "background": "#fff1e0",
+    "headline": "#333333",
+    "xrefBackground": "#9D2E50",
+    "quote": "#333333",
+    "highlightColor": "#9D2E50",
+    "xref": "#ffffff",
+    "font": "MetricWebRegular",
+    "display": "block",
+    "overrideConfigs": {
+
+    },
+    "images": {
+      "logoSrc": "videoFTLogo",
+      "logoAltSrc": "videoFTLogo",
+      "headshotSrc": "headshotSrc",
+      "reutersLogo":"reutersLogo",
+      "videoBackgroundImage": "videoBackgroundImage",
+      "videoBackgroundImageOverlay": "videoBackgroundImageOverlay"
+    }
+  }
+]
